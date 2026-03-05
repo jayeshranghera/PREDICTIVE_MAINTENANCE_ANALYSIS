@@ -23,4 +23,4 @@ notebook==6.5.4
 ipykernel==6.25.0
 
 # Utilities
-pillow==10.0.0
+pillow>=9.0.0,<10.0.0
