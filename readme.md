@@ -392,9 +392,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👤 Contact
 
 **Jayesh Ranghera**  
-📧 Email: jayeshranghera30@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/jayesh-ranghera-9a2b08270/ 
-🐱 GitHub: https://github.com/jayeshranghera
+📧 Email: jayeshranghera30@gmail.com  <br>
+🔗 LinkedIn: https://www.linkedin.com/in/jayesh-ranghera-9a2b08270/ <br>
+🐱 GitHub: https://github.com/jayeshranghera   <br>
 🌐 Portfolio: https://jayeshranghera.github.io
 
 ---
